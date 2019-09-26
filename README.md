@@ -25,4 +25,4 @@ open the link under 'Links and Resources' called 'codesandbox' which will led to
 no test
 
 #### UML
-
+![UML-33-practice](https://github.com/lizkavalski/lab-33-practice/blob/master/uml-practice.jpg)
