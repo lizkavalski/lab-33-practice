@@ -5,40 +5,24 @@
 ### Author: Liz Kavalski
 
 ### Links and Resources
-
-* [front-end](http://xyz.com) (when applicable)
-
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+* [codesandbox](https://codesandbox.io/s/liz-lab-33-practice-6i9po)
 
 ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
+#### `context.js`.
+set a globle state that can be use by the childern, or in this case the compontents(counter, decrement, increment).
+#### `counter.js`
+display the count.
+#### `decrement.js`
+display the '-' button and causes the count to go down when clicked.
+#### `increment.js`
+display the '+' button and couse the count to go up when clicked.
 
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+open the link under 'Links and Resources' called 'codesandbox' which will led to a Codesandbox that has the Counter app.
   
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+no test
 
 #### UML
-Link to an image of the UML for your application and response to events
+
